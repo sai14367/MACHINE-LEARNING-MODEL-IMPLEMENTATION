@@ -94,6 +94,12 @@ The script will:
 
 ## Screenshot preview
 
+![Image](https://github.com/user-attachments/assets/d8ff36f8-94b9-4d25-a95f-ad0b28617c7f)
+
+![Image](https://github.com/user-attachments/assets/2dfc03e7-5130-4a15-92aa-4634a6893feb)
+
+---
+
 ##  Sample Use Cases
 
 *  **Email/SMS Filtering**: Automatically detect and block spam messages
